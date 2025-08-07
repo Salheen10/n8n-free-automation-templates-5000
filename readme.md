@@ -104,7 +104,7 @@ Have a cool real-world automation idea? Help expand the library!
 
 ## 🧠 Maintained by
 
-**Ritik Makhija**  
+**Mahmoud Salheen**  
 📍 Automations | AI Workflows | Open Source Advocate  
 🔗 [GitHub](https://github.com/Salheen10) | [Linkedin](https://www.linkedin.com/in/mahmoud-salheen-10/) | [Instagram](https://www.instagram.com/mahmoud__salheen)
 
