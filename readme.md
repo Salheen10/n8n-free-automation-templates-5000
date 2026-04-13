@@ -1,6 +1,6 @@
 # 🔄 5000+ Advanced n8n Workflow Templates – Real-World, Multi-Platform Automation
 
-Welcome to the **largest open-source collection of production-grade n8n workflows**. With over **5000+ ready-to-use templates**, this repository empowers you to automate real-world tasks across sales, marketing, operations, support, and AI-driven use cases.
+Welcome to the **largest open-source collection of production-grade n8n workflows**. With over **5000+ ready-to-use templates**, this repository empowers you to automate real-world tasks across sales, marketing, operations, support, and AI-driven use cases..
 
 🌐 **Browse Templates Online**: (https://n8n-templates.organicopz.com, https://infyom.com/free-n8n-workflow-templates, https://n8n.io/workflows)
 
